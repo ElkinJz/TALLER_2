@@ -1,5 +1,6 @@
 # TALLER_2
 Ejercicios de Condicionales
+
 17. Escriba el código necesario para saber si un número es positivo o negativo.
 Se solicita digitar un pumero por teclado.
 Se utilizo la funcion float por si se digita un numero con decimales.
